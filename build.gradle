@@ -2,6 +2,7 @@
 
 buildscript {
     repositories {
+        // 当前项目使用的代码库 （JAR，AAR）
         jcenter()
     }
     dependencies {
